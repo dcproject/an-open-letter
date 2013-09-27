@@ -3,6 +3,7 @@
 }
 
 #sidebar {
+
 }
 
 #rightbar {
@@ -12,4 +13,21 @@
 footer {
 	bottom: 20px;
 	position:fixed;
+}
+
+.signage {
+	display: block;
+	margin-right: auto;
+	text-align: right;
+	font-style: italic;
+}
+
+ul {
+	padding: 0;
+}
+
+li {
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-type: none;
 }
