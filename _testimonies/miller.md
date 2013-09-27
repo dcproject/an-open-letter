@@ -1,0 +1,12 @@
+### Elliot Miller, M.A.
+is the Editor-in-Chief of Christian Research Journal. He has been with the Christian Research Institute (CRI) for more than thirty years. He was also involved in the earliest research projects involving the local churches and the teachings of Witness Lee in the 1970s and 1980s as well as the recent and more thorough reevaluation of earlier findings. <http://equip.org/christian-research-journal>
+
+I have read the brief statement of faith that the “local churches” and Living Stream Ministry (LSM) have prepared for this response to the “Open Letter to the Leadership of Living Stream Ministry and the ‘Local Churches’” published in 2007. I find it to be thoroughly consistent with historic, orthodox Christian theology in all of its affirmations. Indeed, it is far more explicit and astute in its orthodoxy than what one normally encounters in statements of faith.
+
+Apart from its precision, the only affirmation that sets the statement of faith apart from others is its assertion that the universal church or body of Christ “is manifested in time and space in local churches, each of which includes all the believers in a given city, regardless of where they meet or how they may otherwise identify themselves (1 Cor. 1:2; 1 Thes. 1:1; Rev. 1:11)”; but there is nothing unorthodox about this assertion, and, in fact, it could be argued that it is a profoundly biblical truth in much need of consideration by Christians today.
+
+I have written an in-depth critique of the 2007 Open Letter that is available at <http://www.equip.org/christian-research-journal/we-were-wrong-2/>.
+
+VIDEOS:
+
+CRI reviews the local churches in detail: A [playlist](http://www.youtube.com/playlist?list=PL793DA547CA28A410) of 17 short videos.

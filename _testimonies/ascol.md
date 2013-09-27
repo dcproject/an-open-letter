@@ -1,0 +1,4 @@
+### Tom Ascol, Ph.D.
+is the pastor of Grace Baptist Church of Cape Coral, Florida, Executive Director of Founders Ministries, and editor of Founders Journal. He has edited books including Reclaiming the Gospel and Reforming Churches and Dear Timothy and has contributed articles and chapters to numerous publications. <http://founders.org>; <http://blog.founders.org>
+
+The “Open Letter from the Local Churches and Living Stream Ministry” includes a statement of their orthodox, evangelical beliefs that should be welcomed by all who love the Lord Jesus and who affirm the full authority of the written Word of God. As I have grown to know some of the brethren in this movement and have worshiped with them in several of their Chinese churches I have been blessed and challenged by their humble devotion to our Lord and commitment to the work of making disciples. May the Lord continue to bless and use them in the extension of His kingdom throughout the world.

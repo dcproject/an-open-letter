@@ -1,0 +1,6 @@
+### David Aikman, Ph.D.
+is an award-winning print and broadcast journalist, a best-selling author, and a foreign affairs commentator on various media outlets. He was the Beijing bureau chief for Time Magazine and is a Professor of History at Patrick Henry College, a Senior Fellow at the Trinity Foundation, and a member of the editorial board of Salem Communications. His many books include Jesus in Beijing and Billy Graham: His Life and Influence. <http://davidaikman.com>
+
+As a long-time observer and reporter on the Christian church in China, I have been familiar with the persecution suffered in China by members of the Local Church, sometimes labeled by the pejorative term, “Shouters.”
+
+Living Stream Ministry, which represents the Local Church in the US, has performed an excellent job bringing together theologians and historians to analyze closely the specific teachings sometimes attributed to the late Witness Lee of the Local Church. It is now apparent that a significant number of distinguished scholars take the view that the doctrines of the Local Church do in fact coincide with historic Trinitarian Christianity. I am very glad that the label of “heretic” is no longer being pinned on this fine group of believers.

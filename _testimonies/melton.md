@@ -1,0 +1,4 @@
+### J. Gordon Melton, Ph.D.
+is the Distinguished Professor of American Religious History with the Institute for Studies of Religion at Baylor University and the Director of the Institute for the Study of American Religion, based in Waco, Texas. He is an ordained United Methodist minister. Dr. Melton has authored more than 35 reference books and scholarly texts on religious topics, including several encyclopedic works such as Melton’s Encyclopedia of American Religions (now in its 8th edition). <http://baylorisr.org/about-isr/j-gordon-melton>
+
+I personally have been unable to find a single point upon which it [the local churches] deviates on any essential doctrine of the Christian faith, though it has a number of differences on matters all of us would consider nonessential, i.e., doctrinal concerns upon which Christians can disagree without reading each other out of the Christian community, in particular, ecclesiology and piety.
