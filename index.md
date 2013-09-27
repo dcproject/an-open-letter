@@ -1,13 +1,14 @@
-
 ---
 layout: default
 title: An Open Letter From the Local Churches and Living Stream Ministry Concerning the Teachings of Witness Lee
 ---
 
-# INTRODUCTION
+<span id="intro"></span>
+# INTRODUCTION 
 
 Over the past nine decades the ministry of Watchman Nee and Witness Lee has edified believers in Christ and produced local churches on all six inhabited continents. The ministry of these two servants of God, which is published by Living Stream Ministry (LSM), stands upon the shoulders of the many great Christian teachers of the past to present both the broad span and the spiritual depths of the New Testament truths, particularly from the perspective of the believers knowing and experiencing Christ as their life for the building up of the church as the Body of Christ. The resilience of the churches produced through their ministry is exemplified by the believers in China, who have proven steadfast and have flourished in the face of decades of extreme persecution, as well as by hundreds of local churches in North America that have faithfully persevered and spread despite nearly forty years of intense opposition.
 
+<span id="faith"></span>
 ## OUR FAITH
 
 The faith affirmed by the local churches is the faith common to all believers, namely that:
@@ -22,6 +23,7 @@ The faith affirmed by the local churches is the faith common to all believers, n
 
 These seven items broadly represent what we hold as “the faith once for all delivered to the saints” (Jude 3). Although our teachings on other, secondary items are also grounded in Scripture, we acknowledge that genuine believers have historically held to many differing interpretations on these matters and continue to do so today. Therefore we diligently practice to receive all those whom the Lord has received (Rom. 14:3; 15:7).
 
+<span id="recovery"></span>
 ## THE LORD’S RECOVERY-THE LIFE, FUNCTION, AND PRACTICAL ONENESS OF THE BELIEVERS
 
 We believe that the Lord is moving today to recover the proper testimony of the church in this age based upon the truths revealed in the New Testament. To this end He is working to recover the genuine experience of Christ as life, the function of all the members of His Body, and the practical oneness among the believers.
@@ -58,6 +60,7 @@ According to Matthew 16:18, the church is first revealed in the New Testament as
 
 How precious it is simply to take the Word of God by faith. It is our testimony that it is possible to practice the biblical revelation concerning the experience of Christ as life, the building up the Body of Christ by the functioning of all the members in mutuality, and the testimony of the oneness of the Body of Christ in local churches. We believe that what the Lord desires to recover is for the benefit of the entire Body of Christ, and we treasure fellowship in mutuality with our fellow believers in Christ.
 
+<span id="history"></span>
 ## HISTORY
 
 Both Watchman Nee and Witness Lee were raised in Christian homes in the early twentieth century. As young men they began to serve the Lord in the 1920s in their respective hometowns in the south and north of China. Both diligently studied the classic Christian writers, and both had ministries that bore the unmistakable sign of God’s blessing. In 1932 Witness Lee joined Watchman Nee in Shanghai to carry out one work emphasizing the experience of Christ as life and the building up of the church. What followed was a remarkable move of the Holy Spirit. The depths of the truths in the Bible poured forth through their ministry as they labored diligently to bring the believers into a personal and corporate living that matches the New Testament. Their work attracted tens of thousands of followers among native Chinese, most of whom were newly saved.
@@ -74,7 +77,9 @@ In 1962, following the Lord’s leading and encouraged by a growing interest in 
 
 In addition to the extensive spread of the work that Watchman Nee and he began in China, Witness Lee left behind a remarkable breadth of written ministry. In total he published more than six hundred titles, many now available in more than fifty languages. His signature work, Life-study of the Bible, is an exhaustive expository commentary on the entire Bible with almost two thousand chapters and twenty-five thousand pages, all of which reveal and make practical the genuine experience of Christ as life and the proper Christian service for the building up of the Body of Christ. While he was ministering the Life-study series, he also wrote extensive outlines, footnotes, and cross references for a new translation of the New Testament called the Recovery Version. Many thousands of believers today, both within and outside the local churches, appreciate in Witness Lee’s writings the same spiritual quality and faithful, insightful development of the divine revelation found in Watchman Nee’s works. Most of the writings of these two servants of the Lord are available online at the LSM website ministrybooks.org.
 
-*Respectfully submitted
-by various brothers representing the local churches
-and by the editorial section of Living Stream Ministry
-May 25, 2013*
+<span class="signage">
+Respectfully submitted  <br>
+by various brothers representing the local churches  <br>
+and by the editorial section of Living Stream Ministry  <br>
+May 25, 2013  <br>
+</span>
