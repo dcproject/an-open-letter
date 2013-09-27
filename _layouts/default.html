@@ -35,25 +35,36 @@
         </div>
 
         <div class="row">
-
-          <div id="sidebar" class="col-md-3">
+          <div class="col-md-3">
+          <div id="sidebar" data-spy="affix" data-offset-top="900" class="well">
             <ul>
-              <li><a>INTRO</a></li>
-              <li><a>OUR FAITH</a></li>
-              <li><a>LORD'S RECOVERY</a></li>
-              <li><a>HISTORY</a></li>
+              <li><a href="/#intro">INTRO</a></li>
+              <li><a href="/#faith">OUR FAITH</a></li>
+              <li><a href="/#recovery">LORD'S RECOVERY</a></li>
+              <li><a href="/#history">HISTORY</a></li>
               <hr>
               <li><a>TESTIMONIES</a></li>
               <li><a>RESOURCES</a></li>
               <li><a>COMMENTS</a></li>
               <li><a>UPDATES</a></li>
               <hr>
-              <li></li>
-              <li><span class="fb-like" data-href="http://an-open-letter.org/" data-width="450" data-layout="button_count" data-show-faces="false" data-send="false"></span></li>
-              <li><span class="g-plusone" data-size="medium"></span></li>
-              <li></li>
+              <li class="social">
+                <span class="fb-like" data-href="http://an-open-letter.org/" data-width="450" data-layout="button_count" data-show-faces="false" data-send="false"></span>
+              </li>
+              <li class="social">
+                <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/tweet_button.html" style="width:90px; height:21px;"></iframe>
+              </li>
+              <li class="social">
+                <span class="g-plusone" data-size="medium"></span>
+              </li>
+              <li>
+                <a href="/pdf/An_Open_Letter_From_LC_and_LSM.pdf">
+                  <img src="/img/pdf.gif"></img>
+                </a>
+              </li>
             </ul>
           </div>
+        </div>
 
           <div id="main" class="col-md-6">
             {{ content }}
@@ -71,9 +82,9 @@
         </footer>
 
 
-    </div> <!-- /container -->       
-
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    </div> <!-- /container -->  
+    
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
 
         <script src="js/vendor/bootstrap.min.js"></script>
@@ -102,6 +113,10 @@
             po.src = 'https://apis.google.com/js/plusone.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
           })();
+        </script>
+
+        <script>
+          $('#sidebar').affix()
         </script>
 
     </body>
