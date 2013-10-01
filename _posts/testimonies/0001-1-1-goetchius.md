@@ -1,5 +1,10 @@
-### Eugene Van Ness Goetchius, Ph.D., Th.D.
-was a Professor of Biblical Languages, holding chairs simultaneously in the Episcopal Theological School and the Philadelphia Divinity School. He taught Greek and Hebrew and collaborated with colleagues from Harvard Divinity School and Weston School of Theology in teaching introductory courses in New Testament interpretation and exegesis.
+---
+name: Eugene Van Ness Goetchius
+anchor: goetchius
+education: Ph.D., Th.D.
+description: was a Professor of Biblical Languages, holding chairs simultaneously in the Episcopal Theological School and the Philadelphia Divinity School. He taught Greek and Hebrew and collaborated with colleagues from Harvard Divinity School and Weston School of Theology in teaching introductory courses in New Testament interpretation and exegesis.
+photo: EugeneVanNessGoetchius.jpg
+---
 
 I went out to a meeting of the church in Newton and heard Witness Lee in person. I met him, and we had a very brief correspondence, because I thought that his presentation that night, which lasted a couple of hours, was a very concise presentation of the Christian faith, or as represented by the Bible. He traced right straight through… _(The Experts Speak Concerning Witness Lee and the Local Churches, p. 112)_
 

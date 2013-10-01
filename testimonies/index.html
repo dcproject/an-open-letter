@@ -1,0 +1,16 @@
+---
+layout: default
+title: Testimonies | An Open Letter From the Local Churches and Living Stream Ministry Concerning the Teachings of Witness Lee
+---
+
+<h1>Testimonies</h1>
+
+{% for testimony in site.posts reversed %}
+	<div class="testimony">
+			<img src="/img/testimonies/{{testimony.photo}}" class="photo img-rounded pull-left" alt="{{ testimony.name }}"/>
+			<h3 id="{{testimony.anchor}}">{{ testimony.name }}</h3>
+			<small>{{ testimony.description }}</small>
+		<p>{{ testimony.content }}</p>
+	</div>
+	<div class="separator"></div>
+{% endfor %}

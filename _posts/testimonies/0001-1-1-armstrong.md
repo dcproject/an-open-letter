@@ -1,5 +1,11 @@
-### John H. Armstrong, D.Min.
-is the president and founder of ACT 3, a mission for equipping leaders for unity in Christ’s mission. He is an adjunct professor of mission at Wheaton College Graduate School and the author/editor of twelve books, one of which is the much reviewed and discussed book, Your Church Is Too Small: Why Unity in Christ’s Mission Is Vital to the Future of the Church (Zondervan, 2010). <http://act3network.com>; <http://johnharmstrong.com>
+--- 
+name: John H. Armstrong
+anchor: armstrong
+education: D.Min.
+description: "is the president and founder of ACT 3, a mission for equipping leaders for unity in Christ’s mission. He is an adjunct professor of mission at Wheaton College Graduate School and the author/editor of twelve books, one of which is the much reviewed and discussed book, Your Church Is Too Small: Why Unity in Christ’s Mission Is Vital to the Future of the Church (Zondervan, 2010)."
+website: http://act3network.com, http://johnharmstrong.com
+photo: JohnHArmstrong.jpg
+---
 
 Almost a decade ago I became aware of numerous accusations circulating against Living Stream Ministry (LSM), especially against the teaching of the late Witness Lee and Watchman Nee. At the time I only knew about Watchman Nee, most of which was based upon his popular books on living in Christ. I profited from Nee’s work as a college student in the late 1960s. But the conversation I heard around 2000 was influenced by evangelicals I deeply respected.
 

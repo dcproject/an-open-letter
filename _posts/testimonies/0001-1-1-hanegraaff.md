@@ -1,5 +1,11 @@
-### Hank Hanegraaff
-is the President of Christian Research Institute (CRI), the largest apologetics ministry in the world. He is also the host of the Bible Answer Man radio broadcast and a well-known author of many books, including Christianity in Crisis and Has God Spoken?. He headed a long-term dialogue and investigation of the teaching and practices of the local churches and the ministry of Watchman Nee and Witness Lee. In the process, he has visited churches and church members in many countries covering three continents. <http://equip.org>; <http://www.equip.org/localchurch>
+---
+name: Hank Hanegraaff
+anchor: hanegraaff
+education:
+description: is the President of Christian Research Institute (CRI), the largest apologetics ministry in the world. He is also the host of the Bible Answer Man radio broadcast and a well-known author of many books, including Christianity in Crisis and Has God Spoken?. He headed a long-term dialogue and investigation of the teaching and practices of the local churches and the ministry of Watchman Nee and Witness Lee. In the process, he has visited churches and church members in many countries covering three continents.
+website: http://equip.org>, http://www.equip.org/localchurch
+photo: HankHanegraaff.jpg
+---
 
 The local churches are an authentic expression of New Testament Christianity. Moreover, as a group forged in the cauldron of persecution, it has much to offer Western Christianity. In this respect three things immediately come to mind.
 

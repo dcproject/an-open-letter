@@ -1,5 +1,11 @@
-### John Morehead, M.A.
-is Director of the Western Institute for Intercultural Studies and co-editor and contributor to Encountering New Religious Movements: A Holistic Evangelical Approach. Morehead is a co-facilitator for the Lausanne Committee for World Evangelization issue group on “The Church and the New Spiritualities,” a co-founder and editor of Sacred Tribes e-journal, and works with the Evangelical Chapter of the Foundation for Religious Diplomacy. He is a former President of Evangelical Ministries to New Religions and a former Associate Director of Watchman Fellowship. <http://wiics.org/about/staff>; <http://johnwmorehead.blogspot.com/>
+---
+name: John Morehead
+anchor: morehead
+education: M.A.
+description: "is Director of the Western Institute for Intercultural Studies and co-editor and contributor to Encountering New Religious Movements: A Holistic Evangelical Approach. Morehead is a co-facilitator for the Lausanne Committee for World Evangelization issue group on “The Church and the New Spiritualities,” a co-founder and editor of Sacred Tribes e-journal, and works with the Evangelical Chapter of the Foundation for Religious Diplomacy. He is a former President of Evangelical Ministries to New Religions and a former Associate Director of Watchman Fellowship."
+website: http://wiics.org/about/staff, http://johnwmorehead.blogspot.com/
+photo: JohnMorehead.jpg
+---
 
 For many years various evangelical counter-cult organizations and individuals have contributed helpful warnings to the church in regards to doctrinal teachings and worldviews that are incompatible with Christianity. Along the way various groups have been labeled “cultic” or “heterodox,” and while evangelicals should always be concerned about sound teaching, they should also be open to the reassessment of their views as religious groups change over time, and also in light of the possibility that former assessments may not have been accurate.
 

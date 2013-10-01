@@ -1,5 +1,11 @@
-### Gretchen Passantino-Coburn, M.Div.
-is Co-founder and Director of Answers in Action (AIA) and former senior research consultant and editor for Christian Research Institute (CRI, under the founding leadership of the late Walter Martin). Gretchen’s published works include Witch Hunt and Satanism in the Zondervan Guide to Cults and Religious Movements Series. <http://answers.org>
+---
+name: Gretchen Passantino-Coburn
+anchor: passantino
+education: M.Div.
+description: is Co-founder and Director of Answers in Action (AIA) and former senior research consultant and editor for Christian Research Institute (CRI, under the founding leadership of the late Walter Martin). Gretchen’s published works include Witch Hunt and Satanism in the Zondervan Guide to Cults and Religious Movements Series.
+website: http://answers.org
+photo: GretchenPassantino-Coburn.jpg
+---
 
 I am among a very small group of experts on the controversy regarding the teachings and practices of LSM and associated churches and individuals who have carefully studied its theology over a broad chronological span of publication and practice. To the best of my knowledge, the Christian Research Institute, Fuller Theological Seminary, and Answers In Action are the only American organizations with this track record. CRI, Fuller, and AIA have all concluded that previous determinations of heresy (including ours) lodged against LSM and associates on essential Christian doctrine were in error and that LSM and associates are fully within orthodox Christian biblical theology in all areas of essential belief and practice.
 

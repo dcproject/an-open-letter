@@ -1,4 +1,0 @@
-### Peter Kuzmic, Th.D.
-is the Eva B. and Paul E. Toms Distinguished Professor of World Missions and European Studies at Gordon-Conwell Theological Seminary. He is also Co-founder and Director of the Evangelical Theological Seminary in Osijek, Croatia, and is widely recognized as the foremost evangelical scholar in Eastern Europe. <http://gordonconwell.edu/academics/view-faculty-member.cfm?faculty_id=15902&grp_id=8947>
-
-I read very carefully the document [An Open Letter from Living Stream Ministry and the Local Churches] and continue to pray that the larger evangelical community in this country and elsewhere will come to realize that your cause is right, and that the deep biblical commitments and Christian orthodoxy of our influential Chinese brothers/teachers [Watchman Nee and Witness Lee] should be appreciated rather than maligned.
