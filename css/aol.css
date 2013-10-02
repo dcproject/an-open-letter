@@ -2,10 +2,15 @@
 
 }
 
-#sidebar {
-
+#sidebar ul {
+	padding: 0;
 }
 
+#sidebar li {
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-type: none;
+}
 
 footer {
 	z-index: 2;
@@ -22,15 +27,6 @@ footer {
 	font-style: italic;
 }
 
-ul {
-	padding: 0;
-}
-
-li {
-	list-style-image: none;
-	list-style-position: outside;
-	list-style-type: none;
-}
 
 .description {
 	font-style: italic;
