@@ -18,5 +18,4 @@ Our (CRI and AIA) conclusion was made public long before the “Open Letter” o
 Unless or until a credible expert on cult theology undertakes the re-evaluation and contemporary research conducted by CRI, AIA, and Fuller Theological Seminary, our affirmation of the LSM and associates orthodoxy stands. At the very least, honorable signers of the “Open Letter” who cannot take up the challenge should be willing to rescind their support of the “Open Letter,” acknowledging that it does not represent their own researched and tested analysis and conclusion. Those responsible for the Open Letter should honor the requests for removal made by any and all previous signers. If, as our re-evaluation and research has shown, the brothers and sisters associated with Witness Lee and Living Stream Ministries are our brothers and sisters in Christ, then continuing to label them as heretics wounds the whole Body of Christ.
 
 #### VIDEOS:
-
 Beginning in the early 1970s Gretchen Passantino was one of the early critics of the local churches and of Witness Lee. She speaks about the CRI research team’s reassessment of the teaching of Witness Lee and the local churches.

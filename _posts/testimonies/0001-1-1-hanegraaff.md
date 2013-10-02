@@ -19,7 +19,9 @@ In sum, along with Christians from a broad range of persuasions, the local churc
 
 Hank affirms the orthodoxy of Watchman Nee, Witness Lee, and Living Stream Ministry, as well as their practices, and how he has personally been blessed by their emphasis on Christian Living.
 
+
 A Brief Affirmation of Living Stream Ministry
+
 
 Hank Hanegraaff speaks on Watchman Nee’s impact on the Western World
 
