@@ -1,3 +1,7 @@
+---
+layout: default
+title: Salvation | An Open Letter From the Local Churches and Living Stream Ministry Concerning the Teachings of Witness Lee
+---
 # SALVATION
 
 ## BOOKS:

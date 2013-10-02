@@ -1,3 +1,7 @@
+---
+layout: default
+title: The Experience of Christ as Life | An Open Letter From the Local Churches and Living Stream Ministry Concerning the Teachings of Witness Lee
+---
 # THE EXPERIENCE OF CHRIST AS LIFE
 
 ## BOOKS:

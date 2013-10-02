@@ -1,3 +1,7 @@
+---
+layout: default
+title: The Functioning of All the Members | An Open Letter From the Local Churches and Living Stream Ministry Concerning the Teachings of Witness Lee
+---
 # THE FUNCTIONING OF ALL THE MEMBERS
 
 ## BOOKS:

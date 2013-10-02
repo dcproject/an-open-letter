@@ -1,3 +1,7 @@
+---
+layout: default
+title: A Practical Testimony of Oneness | An Open Letter From the Local Churches and Living Stream Ministry Concerning the Teachings of Witness Lee
+---
 # A PRACTICAL TESTIMONY OF ONENESS
 
 ## BOOKS:

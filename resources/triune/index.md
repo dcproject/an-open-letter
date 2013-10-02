@@ -1,3 +1,7 @@
+---
+layout: default
+title: The Triune God | An Open Letter From the Local Churches and Living Stream Ministry Concerning the Teachings of Witness Lee
+---
 # THE TRIUNE GOD
 
 ## BOOKS:
