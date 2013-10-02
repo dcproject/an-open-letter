@@ -50,3 +50,10 @@ li {
 	height: 100px;
 	width: 100px;
 }
+
+.video-thumb {
+	margin: 10px;
+	display: block;
+	width: 170px;
+	height: 100px;
+}
