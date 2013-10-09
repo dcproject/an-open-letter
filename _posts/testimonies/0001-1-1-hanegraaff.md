@@ -3,7 +3,7 @@ name: Hank Hanegraaff
 anchor: hanegraaff
 education:
 description: is the President of Christian Research Institute (CRI), the largest apologetics ministry in the world. He is also the host of the Bible Answer Man radio broadcast and a well-known author of many books, including Christianity in Crisis and Has God Spoken?. He headed a long-term dialogue and investigation of the teaching and practices of the local churches and the ministry of Watchman Nee and Witness Lee. In the process, he has visited churches and church members in many countries covering three continents.
-website: http://equip.org>, http://www.equip.org/localchurch
+website: http://equip.org, http://www.equip.org/localchurch
 photo: HankHanegraaff.jpg
 ---
 
@@ -17,12 +17,46 @@ In sum, along with Christians from a broad range of persuasions, the local churc
 
 #### VIDEOS:
 
-Hank affirms the orthodoxy of Watchman Nee, Witness Lee, and Living Stream Ministry, as well as their practices, and how he has personally been blessed by their emphasis on Christian Living.
+<div class="media">
+  <a class="pull-left" id="affWL">
+    <img src="/img/testimonies/videos/videoThumbAffWL.jpg" class="media-object"/>
+  </a>
+  <div class="media-body">
+    <h4 class="media-heading">A Brief Affirmation of Watchman Nee and Witness Lee</h4>
+    Hank affirms the orthodoxy of Watchman Nee, Witness Lee, and Living Stream Ministry, as well as their practices, and how he has personally been blessed by their emphasis on Christian Living.
+  </div>
+  <div id="affWLvid" class="embedvideo">
+    <iframe width="560" height="315" src="//www.youtube.com/embed/8yGNE03X9Ac?rel=0" frameborder="0" allowfullscreen="" >&nbsp;</iframe>
+  </div>
+</div>
 
+<div class="media">
+  <a class="pull-left" id="affLSM">
+    <img src="/img/testimonies/videos/videoThumbAffLSM.jpg" class="media-object"></img>
+  </a>
+  <div class="media-body">
+    <h4 class="media-heading">A Brief Affirmation of Living Stream Ministry</h4>
+    Hank affirms that Living Stream Ministry is not cultic, but thoroughly orthodox.
+  </div>
+  <div id="affLSMvid" class="embedvideo">
+    <iframe width="560" height="315" src="//www.youtube.com/embed/ZPTj7pEehf4?rel=0" frameborder="0" allowfullscreen="" >&nbsp;</iframe>
+  </div>
+</div>
 
-A Brief Affirmation of Living Stream Ministry
+<div class="media">
+  <a class="pull-left" id="WN">
+    <img src="/img/testimonies/videos/videoThumbWN.jpg" class="media-object"></img>
+  </a>
+  <div class="media-body">
+    <h4 class="media-heading">Hank Hanegraaff speaks on Watchman Nee’s impact on the Western World</h4>
+  </div>
+  <div id="WNvid" class="embedvideo">
+    <iframe width="560" height="315" src="//www.youtube.com/embed/ZwEGvAF6aP0?rel=0" frameborder="0" allowfullscreen="" >&nbsp;</iframe>
+  </div>
+</div>
 
-
-Hank Hanegraaff speaks on Watchman Nee’s impact on the Western World
+<br>
 
 CRI reviews the local churches in detail: A [playlist](http://www.youtube.com/playlist?list=PL793DA547CA28A410) of 17 short videos.
+
+
